@@ -12,13 +12,8 @@
  *      * return: zero if there is no error and non-zero otherwise
  *
  *       */
-
 int main(void)
-
 {
-
 		puts("\"Programming is like building a multilingual puzzle");
-
 			return (0);
-
 }
